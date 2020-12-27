@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: TIME 
+title: TIME
 ---
 
 [my favorite website](http://www.soundcloud.com)
