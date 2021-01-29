@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: TIME
+title: Time
 ---
 
 
