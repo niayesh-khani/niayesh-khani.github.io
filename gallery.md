@@ -27,6 +27,11 @@ gallery:
     image_path: /assets/images/5.jpg
     alt: "placeholder image 5"
     title: "Image 5 title caption"    
+    - url: /assets/images/desctop.jpg
+    image_path: /assets/images/desctop.jpg
+    alt: "placeholder image desctop"
+    title: "my desctop"    
+
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
